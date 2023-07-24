@@ -1,4 +1,4 @@
-## Projetos_BlueEdtech - Primeiros passos
+## Projetos_BlueEdtech
 
 ### Neste repositório estão alguns projetos realizados durante a formação de Ciência de Dados da Blue Edtech.
 
